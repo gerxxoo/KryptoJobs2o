@@ -71,9 +71,14 @@ To do so, complete the following steps:
 4) Click the Send Transaction button to sign and send the transaction with your Ethereum account information. Then navigate to the Transactions section in Ganache and complete the following steps:
 
 - Take a screenshot of your address balance and history in Ganache. Save this screenshot in the `README.md` file of your GitHub repository for this Challenge assignment.
+<img width="1289" alt="Screenshot 2024-06-02 at 6 35 14 PM" src="https://github.com/gerxxoo/KryptoJobs2o/assets/151468004/2458623e-3e00-4980-aa43-b7d2b037ee06">
+
 
 - Take a screenshot of the transaction details in Ganache. Save this screenshot in the same `README.md` file.
+<img width="1293" alt="Screenshot 2024-06-02 at 6 26 04 PM" src="https://github.com/gerxxoo/KryptoJobs2o/assets/151468004/0586ec67-4d2a-476c-b0a6-480cf305a9fd">
+
 
 5) Return to the original transaction, click the To address of the transaction, and then complete the following step:
 
 - Take a screenshot of the recipient’s address balance and history in Ganache. Save this screenshot to the `README.md` file.
+<img width="1292" alt="Screenshot 2024-06-02 at 6 30 45 PM" src="https://github.com/gerxxoo/KryptoJobs2o/assets/151468004/2c0e9bd5-6e3b-40e4-861b-c04f6600158d">
