@@ -27,9 +27,9 @@ To do all this, complete the following steps:
 
 - send_transaction
 
-4) In the Streamlit sidebar section of code, create a variable named `account`. Set this variable equal to a call to the `generate_account` function. Note that this function will create the hierarchical deterministic (HD) wallet and the Ethereum account of the KryptoJobs2Go customer (in this case, you).
+1) In the Streamlit sidebar section of code, create a variable named `account`. Set this variable equal to a call to the `generate_account` function. Note that this function will create the hierarchical deterministic (HD) wallet and the Ethereum account of the KryptoJobs2Go customer (in this case, you).
 
-5) In the same section of code, define a new `st.sidebar.write` function that displays the balance of the customer account. In this function, call the `get_balance` function, and pass it your Ethereum `account.address`.
+2) In the same section of code, define a new `st.sidebar.write` function that displays the balance of the customer account. In this function, call the `get_balance` function, and pass it your Ethereum `account.address`.
 
 
 ## Step 2: Sign and Run a Payment Transaction
